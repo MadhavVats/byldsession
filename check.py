@@ -1,2 +1,2 @@
 print ("hello tanmay")
-print ("bye tanmay")
+print ("bye tanmaya")
