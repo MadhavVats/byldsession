@@ -1,1 +1,1 @@
-print ("hello tanmaya")
+print ("hello tanmay")
